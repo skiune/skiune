@@ -1,3 +1,3 @@
 It' my demo 
 <br>
-Aouther:Samir Gurung
+Author:Samir Gurung
